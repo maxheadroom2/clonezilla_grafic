@@ -15,3 +15,7 @@ los permisos de los documentos son:
 
 
 Esto para no modificarlos, y realizar la escritura sin dañarlos
+
+el permiso de la carpeta es drwxr-xr-x  2 root root    4096 mar 14 14:56 drbl
+
+y su ruta es /etc/
